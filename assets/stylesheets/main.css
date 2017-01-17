@@ -1,0 +1,10 @@
+body {
+  background-color: #2da9b7;
+}
+#quote {
+  margin-top: 150px;
+  
+}
+.quote-div {
+	min-height: 300px;
+}
